@@ -3,19 +3,19 @@ Using this repo to keep track of my LeetCode answer
 
 ## Easy Problems
 
-| Solution  |  Name |  Description |
+| Name  |  Solution |  Description |
 |---|---|-------------|
-| [Solution XX](https://leetcode.com/problems/two-sum/) |  [twoSum](https://leetcode.com/problems/two-sum/)  | sample description |
+| [twoSum](https://leetcode.com/problems/two-sum/) |  [Solution 1](https://github.com/bahtibyte/LC-Grind/blob/main/src/easy/Solution1.java) | popular |
 
 ## Medium Problems
 
-| Problem  |  Name |  Description |
+| Name  |  Solution |  Description |
 |---|---|-------------|
 | [XX](https://leetcode.com/problems/) | TBD | sample description |
 
 
 ## Hard Problems
 
-| Problem  |  Name |  Description |
+| Name  |  Solution |  Description |
 |---|---|-------------|
 | [XX](https://leetcode.com/problems/) | TBD | sample description |
