@@ -23,6 +23,7 @@ Using this repo to keep track of my LeetCode answer
 | 14 | [longestCommonPrefix](https://leetcode.com/problems/longest-common-prefix/) |  |  |
 | 26 | [removeDuplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |  |  |
 | 34 | [removeVowels](https://leetcode.com/problems/remove-vowels-from-a-string/) |  |  |
+| 66 | [plusOne](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/bahtibyte/LC-Grind/blob/main/src/easy/Solution66.java) |  |
 | 121 | [maxProfits](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |  |  |
 | 125 | [isPalindrome](https://leetcode.com/problems/valid-palindrome/) |  |  |
 | 136 | [singleNumber](https://leetcode.com/problems/single-number/) |  |  |
